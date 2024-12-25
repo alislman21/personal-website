@@ -9,9 +9,8 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abed Alawieh -  Full Stack Software Developer",
-  description:
-    "This is the portfolio of Abed Alawieh. A Full Stack Software Developer.",
+  title: "Portfolio of Abed Alawieh -  Software Engineer",
+  description: "This is the portfolio of Abed Alawieh. A Software Engineer.",
 };
 
 export default function RootLayout({ children }) {
