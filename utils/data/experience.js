@@ -3,13 +3,13 @@ export const experiences = [
     id: 1,
     title: "Full Stack Developer",
     company: "Born Interactive",
-    duration: "( May 2024 – Present)",
+    duration: "( May 2024 – Present )",
   },
   {
     id: 2,
     title: "Full Stack Developer",
     company: "TDNT (Triplet Data Networks and Telecommunications LTD)",
-    duration: "( February 2023 – May 2024)",
+    duration: "( February 2023 – May 2024 )",
   },
   {
     id: 3,
