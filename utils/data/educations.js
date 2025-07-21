@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Master of Science in Computer Engineering ",
-    duration: "2023- Present",
+    duration: "2025",
     institution: "Lebanese International University",
   },
   {
@@ -11,5 +11,4 @@ export const educations = [
     duration: "2023",
     institution: "Lebanese International University ",
   },
-
-]
+];
