@@ -3,13 +3,13 @@ export const experiences = [
     id: 1,
     title: "Software Engineer",
     company: "Intalio",
-    duration: "( May 2024 – Present )",
+    duration: "( March 2025 – Present )",
   },
   {
     id: 2,
     title: "Software Engineer",
     company: "Born Interactive",
-    duration: "( May 2024 – Present )",
+    duration: "( May 2024 – March 2025 )",
   },
   {
     id: 3,
