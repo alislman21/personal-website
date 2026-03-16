@@ -9,8 +9,8 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abed Alawieh -  Software Engineer",
-  description: "This is the portfolio of Abed Alawieh. A Software Engineer.",
+  title: "Portfolio of Ali Salman -  Software Engineer",
+  description: "This is the portfolio of Ali Salman. A Software Engineer.",
 };
 
 export default function RootLayout({ children }) {
@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5453450507417118"
-          crossorigin="anonymous"
+          crossOrigin="anonymous"
         ></script>
       </head>
       <body className={inter.className}>
@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
       <script
         async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5453450507417118"
-        crossorigin="anonymous"
+        crossOrigin="anonymous"
       ></script>
     </html>
   );

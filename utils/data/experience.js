@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: "Software Engineer",
+    title: "Associate Software Engineer",
     company: "Intalio",
-    duration: "( March 2025 – Present )",
+    duration: "( Jan 2026 – Present )",
   },
   {
     id: 2,
-    title: "Software Engineer",
-    company: "Born Interactive",
-    duration: "( May 2024 – March 2025 )",
+    title: "| ERP Odoo Developer Intern",
+    company: "Mobilearts",
+    duration: "( Jul. 2025 – Sep. 2025 )",
   },
   {
     id: 3,
-    title: "Software Engineer",
-    company: "TDNT (Triplet Data Networks and Telecommunications LTD)",
-    duration: "( October 2022 – May 2024 )",
+    title: "Full Stack Intern",
+    company: "Techlarious & Two Of Us L.L.C.",
+    duration: "( Aug. 2024 – Jan. 2025  )",
   },
 ];

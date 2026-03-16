@@ -1,6 +1,6 @@
 {
   "name": "developer-portfolio",
-  "description": "Portfolio of Abed Alawieh",
+  "description": "Portfolio of Ali Salman",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,7 +18,8 @@
     "react-dom": "latest",
     "react-fast-marquee": "^1.6.2",
     "react-icons": "^4.11.0",
-    "react-toastify": "^10.0.4"
+    "react-toastify": "^10.0.4",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "autoprefixer": "latest",
