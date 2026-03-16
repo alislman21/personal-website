@@ -1,3 +1,5 @@
+'use client'
+
 // @flow strict
 import Image from "next/image";
 
